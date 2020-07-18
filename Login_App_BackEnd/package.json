@@ -59,7 +59,7 @@
     "bcryptjs": "^2.4.3",
     "isemail": "^3.2.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "loopback-connector-mongodb": "^4.2.0",
     "nodemailer": "^6.3.0",
     "nodemailer-mailgun-transport": "^1.4.0"
